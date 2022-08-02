@@ -13,7 +13,7 @@ Regions and their corresponding cities in Ghana
 {
   "Ahafo": ["Goaso", "Hwidiem", "Kenyasi", "Kukuom"],
   "Ashanti": [
-    "Abrepo",
+    "Abrepo Junction",
     "Abuakwa",
     "Adum",
     "Afrancho",
@@ -39,5 +39,5 @@ Regions and their corresponding cities in Ghana
 
 ## Installation
 
-- Clone the project (https://github.com/oliverboamah/ghana-cities.git)
+- Clone the project (https://github.com/delanyoyoko/ghana-cities.git)
 - Find the `cities.json` file, and copy it to your project folder
